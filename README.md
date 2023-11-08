@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @demonfruitcake , used to be elluhata1
-- 👀 I’m interested in basic programming such as python, ruby and C+. had to take a break and now looking forward to get back into it.
-- 🌱 I’m currently learning nodejs and re-familiarizing myself with php and python
-- 📫 revengeancex02@gmail.com
+- 👋 Hi, I’m @demonfruitcake , used to be @dinnetola
+- 👀 always have been interested in python, ruby and C. had to take a break and now looking forward to get back into it.
+- 🌱 currently re-familiarizing myself with python
+- 📫 dinnetola@duck.com
 
 <!---
 demonfruitcake/demonfruitcake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
